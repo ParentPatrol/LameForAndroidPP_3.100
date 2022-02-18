@@ -16,6 +16,6 @@ Source code goes from libmp3lame folder of original library sources bundle. It i
 Run ./build.sh. Libraries will be in ./libs folder.
  
 ## License
-[License inherits]() from original LAME Project.
+[License inherits](https://github.com/ParentPatrol/LameForAndroidPP_3.100/blob/main/COPYING) from original LAME Project.
 ### LAME
-LAME source code licensed under the [LGPL]().
+LAME source code licensed under the [LGPL](https://github.com/ParentPatrol/LameForAndroidPP_3.100/blob/main/COPYING).
