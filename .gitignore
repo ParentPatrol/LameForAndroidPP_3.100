@@ -1,0 +1,7 @@
+bin/
+obj/
+gen/
+.DS_Store
+mp3lame.jar
+mp3lame.jardesc 
+/Note.txt
